@@ -4,8 +4,8 @@ import express, { json, urlencoded } from "express";
 const app = express();
 
 const appConfig = {
-  port: 64503,
-  hostname: "localhost",
+  port: 3000,
+  hostname: "http://185.87.252.144/",
 };
 
 app.use(json());
