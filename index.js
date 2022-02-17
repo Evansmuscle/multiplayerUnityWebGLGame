@@ -5,7 +5,7 @@ const app = express();
 
 const appConfig = {
   port: 3000,
-  hostname: "http://185.87.252.144/",
+  hostname: "185.87.252.144",
 };
 
 app.use(json());
