@@ -1,1 +1,1 @@
-To play the game you must first install all the npm requirements, then in the console type "npm start", and open "http://localhost:5500" in your browser to start playing the game.
+To play the game you must first install all the npm requirements by typing the command in your console when in the folder: "npm install", then in the console type "npm start", and open "http://localhost:5500" in your browser to start playing the game.
